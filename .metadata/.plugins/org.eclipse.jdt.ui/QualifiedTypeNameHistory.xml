@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.Texture"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.Animation"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.TextureRegion"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.math.Vector"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Input.Keys"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Files"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Files.FileType"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.graphics.g2d.SpriteBatch"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.files.FileHandle"/>
+<fullyQualifiedTypeName name="java.io.Reader"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.math.Vector2"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="com.me.mygdxgame.GameState"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.audio.Music"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.Gdx"/>
+<fullyQualifiedTypeName name="com.badlogic.gdx.audio.Sound"/>
+</qualifiedTypeNameHistroy>
